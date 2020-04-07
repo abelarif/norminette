@@ -3,9 +3,7 @@
 <div align="center">
   <sub>Created by <a href="42.fr">42.fr</a></sub>
 </div>
-<div align="center">
-  <sub>Adapted by <a href="https://hive.fi">Hive Helsinki</a> for all the 42 Network</sub>
-</div>
+
 
 ---
 
